@@ -1,13 +1,541 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64d51e76-dd61-4fc1-b1f0-1d8ee2e05a90" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/145.2911.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/145.6582.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/147.4001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/149.6496.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/15.6427.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/153.0038.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/154.2686.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/16.1995.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/16.2235.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/160.7809.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/161.0366.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/161.3925.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/162.1650.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/162.4463.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/163.9406.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/164.4144.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/165.3213.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/165.5520.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/166.7965.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/167.9086.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/169.2103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/17.8449.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/171.1355.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/174.4496.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/175.7350.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/177.3944.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/178.5191.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/179.1919.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/180.2755.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/180.6648.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/182.9794.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/183.5979.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/185.0977.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/186.3214.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/19.6037.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/19.8282.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/190.2010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/191.2208.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/192.8315.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/197.5860.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/198.9520.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/2.4555.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/20.2156.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/20.6482.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/201.1743.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/203.8151.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/205.4222.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/205.7708.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/206.1988.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/206.7660.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/209.4546.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/210.0743.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/211.3994.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/214.2018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/215.8242.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/218.3596.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/22.8405.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/222.4490.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/223.6234.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/226.7755.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/23.0647.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/232.0695.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/232.4600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/233.1675.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/233.6207.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/236.0900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/236.9310.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/24.0938.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/24.3828.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/241.9596.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/248.5647.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/25.3477.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/252.3139.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/255.7922.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/256.7544.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/257.2922.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/261.3067.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/261.5850.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/262.2003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/268.2596.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/268.7214.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/270.3707.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/270.8341.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/278.2058.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/28.6540.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/285.0752.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/287.2364.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/29.3470.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/299.0081.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/302.3080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/302.8696.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/306.3960.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/307.6393.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/310.2053.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/315.8598.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/316.0032.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/32.1624.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/32.2180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/320.4912.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/320.9195.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/322.2426.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/324.4247.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/324.8731.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/326.8964.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/328.0234.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/329.6951.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/33.3925.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/331.6941.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/332.0096.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/337.7033.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/347.3545.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/350.9912.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/354.2547.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/355.1748.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/360.2417.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/360.5600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/367.3523.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/369.5543.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/372.0451.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/372.9969.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/374.0743.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/378.4485.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/381.0309.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/383.2106.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/386.4065.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/388.9270.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/39.2964.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/393.3457.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/394.5366.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/402.3391.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/405.2776.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/406.7077.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/41.9154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/410.1865.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/412.2277.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/420.8069.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/421.5822.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/422.6500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/424.7840.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/43.2041.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/430.3040.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/431.7686.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/435.1194.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/437.4873.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/438.8526.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/44.0743.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/443.9206.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/444.8775.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/446.1594.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/447.7513.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/448.6602.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/449.6249.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/449.6999.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/453.6179.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/455.5692.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/455.9477.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/456.4479.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/46.8121.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/46.8317.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/463.2885.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/464.1138.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/465.0808.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/468.3035.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/469.7382.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/472.4863.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/474.8084.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/475.1013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/475.8391.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/479.8573.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/480.2609.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/480.5497.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/481.9623.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/482.8811.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/485.8159.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/486.5684.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/486.6217.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/489.9802.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/490.7291.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/493.4763.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/498.5548.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/5.2055.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/500.4151.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/504.4317.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/506.7185.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/508.2009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/508.5399.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/510.6490.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/512.8100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/514.5359.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/517.6396.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/521.3799.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/522.2262.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/523.2044.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/523.9489.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/53.3326.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/535.4591.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/537.1024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/538.5839.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/541.2742.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/542.0381.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/542.4347.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/546.9025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/548.1122.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/55.9681.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/553.0524.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/555.2431.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/556.1090.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/556.7901.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/558.9772.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/559.9430.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/564.1654.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/565.7398.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/568.3292.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/568.6376.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/569.5505.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/569.9615.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/57.8221.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/57.9628.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/570.6219.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/571.9301.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/573.5496.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/574.3973.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/577.5712.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/58.0558.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/59.7473.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/599.0476.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/6.1304.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/6.7005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/600.1696.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/602.9072.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/603.4583.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/605.3954.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/607.9002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/61.0724.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/61.5883.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/613.1225.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/614.0827.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/617.2735.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/63.2877.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/630.5615.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/632.9010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/633.6958.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/634.7158.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/637.2285.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/637.4847.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/639.6752.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/64.0334.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/643.0278.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/650.2803.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/66.0217.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/660.1552.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/664.0685.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/670.6778.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/673.9119.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/675.5894.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/675.6654.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/677.0657.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/683.9530.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/684.9517.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/685.2853.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/687.9354.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/69.3327.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/690.6017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/691.7292.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/697.8938.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/7.8536.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/70.0438.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/705.6997.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/706.1965.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/710.7785.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/716.8012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/717.1121.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/718.1259.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/719.0332.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/719.2146.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/720.6261.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/722.8763.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/723.4843.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/727.6645.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/729.9101.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/73.9935.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/734.2739.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/737.1791.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/737.3967.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/739.4686.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/74.5934.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/74.8664.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/743.3495.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/744.7569.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/746.9278.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/747.5885.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/749.1839.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/75.9846.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/751.0848.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/751.7987.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/753.6574.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/754.6212.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/762.0459.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/762.5212.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/763.1407.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/765.6809.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/77.8503.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/778.2544.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/779.3145.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/78.5790.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/780.6191.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/794.5538.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/794.7001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/796.8177.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/799.3263.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/800.6786.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/802.9093.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/807.8819.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/809.0796.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/81.1346.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/817.6753.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/821.2235.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/823.3603.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/828.8176.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/83.0467.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/830.0998.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/830.8918.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/834.5343.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/836.0539.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/837.1683.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/840.4081.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/842.9153.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/848.8737.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/849.1270.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/85.9171.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/851.3844.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/858.2003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/860.8556.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/862.0146.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/866.3743.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/866.7740.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/867.7844.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/868.0599.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/87.0881.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/872.1864.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/872.5792.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/875.6587.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/880.7301.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/881.3982.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/881.6507.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/884.4933.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/884.7733.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/885.6236.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/890.2879.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/891.4563.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/893.9515.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/895.0619.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/895.6948.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/897.7361.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/898.1951.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/899.2852.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/9.7623.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/902.8547.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/908.2225.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/913.7251.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/914.4150.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/915.0698.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/916.4295.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/917.0494.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/919.8649.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/920.0604.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/928.3342.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/929.8501.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/936.1455.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/939.9638.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/94.5218.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/942.3342.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/942.7596.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/944.3969.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/948.0466.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/95.9036.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/950.0970.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/956.8439.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/957.3475.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/961.3390.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/965.2331.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/965.9263.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/966.4801.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/969.6123.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/973.8063.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/980.5298.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/981.1754.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/981.3737.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/982.6900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/985.2692.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/99.7917.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/99.9671.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Deep learning theory/course02/5.21.1/Image/993.4963.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 Deep learning theory/course01/data/MNIST/processed/t10k-images-idx3-ubyte.gz" beforeDir="false" afterPath="$PROJECT_DIR$/05 Deep learning theory/course01/data/5.10/MNIST/processed/t10k-images-idx3-ubyte.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 Deep learning theory/course01/data/MNIST/processed/t10k-labels-idx1-ubyte.gz" beforeDir="false" afterPath="$PROJECT_DIR$/05 Deep learning theory/course01/data/5.10/MNIST/processed/t10k-labels-idx1-ubyte.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 Deep learning theory/course01/data/MNIST/processed/test.pt" beforeDir="false" afterPath="$PROJECT_DIR$/05 Deep learning theory/course01/data/5.10/MNIST/processed/test.pt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 Deep learning theory/course01/data/MNIST/processed/train-images-idx3-ubyte.gz" beforeDir="false" afterPath="$PROJECT_DIR$/05 Deep learning theory/course01/data/5.10/MNIST/processed/train-images-idx3-ubyte.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 Deep learning theory/course01/data/MNIST/processed/train-labels-idx1-ubyte.gz" beforeDir="false" afterPath="$PROJECT_DIR$/05 Deep learning theory/course01/data/5.10/MNIST/processed/train-labels-idx1-ubyte.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 Deep learning theory/course01/data/MNIST/processed/training.pt" beforeDir="false" afterPath="$PROJECT_DIR$/05 Deep learning theory/course01/data/5.10/MNIST/processed/training.pt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 Deep learning theory/course01/data/MNIST/raw/t10k-images-idx3-ubyte" beforeDir="false" afterPath="$PROJECT_DIR$/05 Deep learning theory/course01/data/5.10/MNIST/raw/t10k-images-idx3-ubyte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 Deep learning theory/course01/data/MNIST/raw/t10k-images-idx3-ubyte.gz" beforeDir="false" afterPath="$PROJECT_DIR$/05 Deep learning theory/course01/data/5.10/MNIST/raw/t10k-images-idx3-ubyte.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 Deep learning theory/course01/data/MNIST/raw/t10k-labels-idx1-ubyte" beforeDir="false" afterPath="$PROJECT_DIR$/05 Deep learning theory/course01/data/5.10/MNIST/raw/t10k-labels-idx1-ubyte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 Deep learning theory/course01/data/MNIST/raw/t10k-labels-idx1-ubyte.gz" beforeDir="false" afterPath="$PROJECT_DIR$/05 Deep learning theory/course01/data/5.10/MNIST/raw/t10k-labels-idx1-ubyte.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 Deep learning theory/course01/data/MNIST/raw/train-images-idx3-ubyte" beforeDir="false" afterPath="$PROJECT_DIR$/05 Deep learning theory/course01/data/5.10/MNIST/raw/train-images-idx3-ubyte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 Deep learning theory/course01/data/MNIST/raw/train-images-idx3-ubyte.gz" beforeDir="false" afterPath="$PROJECT_DIR$/05 Deep learning theory/course01/data/5.10/MNIST/raw/train-images-idx3-ubyte.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 Deep learning theory/course01/data/MNIST/raw/train-labels-idx1-ubyte" beforeDir="false" afterPath="$PROJECT_DIR$/05 Deep learning theory/course01/data/5.10/MNIST/raw/train-labels-idx1-ubyte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 Deep learning theory/course01/data/MNIST/raw/train-labels-idx1-ubyte.gz" beforeDir="false" afterPath="$PROJECT_DIR$/05 Deep learning theory/course01/data/5.10/MNIST/raw/train-labels-idx1-ubyte.gz" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="476" />
-    <option name="y" value="253" />
+    <option name="x" value="307" />
+    <option name="y" value="90" />
     <option name="width" value="1602" />
     <option name="height" value="917" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DL_Pytorch-GuPao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DL_Pytorch-GuPao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DL_Pytorch-GuPao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DL_Pytorch-GuPao" type="462c0819:PsiDirectoryNode" />
+              <item name="05 Deep learning theory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DL_Pytorch-GuPao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DL_Pytorch-GuPao" type="462c0819:PsiDirectoryNode" />
+              <item name="05 Deep learning theory" type="462c0819:PsiDirectoryNode" />
+              <item name="course01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DL_Pytorch-GuPao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DL_Pytorch-GuPao" type="462c0819:PsiDirectoryNode" />
+              <item name="05 Deep learning theory" type="462c0819:PsiDirectoryNode" />
+              <item name="course02" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\MyGit\python project\DL_Pytorch-GuPao\05 Deep learning theory\course01\data\5.10" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64d51e76-dd61-4fc1-b1f0-1d8ee2e05a90" name="Default Changelist" comment="" />
+      <created>1583376237414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583376237414</updated>
+    </task>
+    <task id="LOCAL-00001" summary="gupao学习笔记&#10;第一次提交">
+      <created>1583376357892</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583376357892</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gupao学习笔记">
+      <created>1583376445746</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583376445746</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="307" y="90" width="1602" height="917" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gupao学习笔记&#10;第一次提交" />
+    <MESSAGE value="gupao学习笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="gupao学习笔记" />
   </component>
 </project>
